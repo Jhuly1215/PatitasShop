@@ -43,8 +43,8 @@ yarn install
 ```bash
 npm run dev
 ```
-
-##🚢 Despliegue
+---
+## 🚢 Despliegue
 
 El proyecto está preparado para desplegarse fácilmente en Vercel:
 Importa el repositorio en Vercel
